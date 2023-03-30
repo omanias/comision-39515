@@ -69,7 +69,9 @@ const suma = parseInt(numero1) + parseInt(numero2)
 const resta = numero1 - numero2
 // alert("El resultado de la suma es: " + suma)
 
-console.log(typeof(numero1)) */
+console.log(typeof(numero1)) 
+
+console.log(numero1) */
 
 
 
