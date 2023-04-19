@@ -68,7 +68,7 @@ const producto2 = new Producto("Teclado", 1000, false);
 
 console.log(producto2); */
 
-function crearObjetoCuenta(nombre, apellido, saldo) {
+/* function crearObjetoCuenta(nombre, apellido, saldo) {
   this.nombreCuenta = nombre = prompt("Ingrese su nombre");
   this.apellidoCuenta = apellido = prompt("Ingrese su apellido");
   this.saldoCuenta = saldo = Number(prompt("Ingrese el saldo"));
@@ -79,4 +79,4 @@ function crearObjetoCuenta(nombre, apellido, saldo) {
 
 const cuenta1 = new crearObjetoCuenta();
 
-console.log(cuenta1.mostrarCuenta());
+console.log(cuenta1.mostrarCuenta()); */
