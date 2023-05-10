@@ -50,7 +50,7 @@ if (efectivo > totalPagar || credito > totalPagar || disponible < totalPagar) {
 // && AND
 // || OR
 
-/* 
+/*
 let numero = "100"
 
 if(numero !== 50){
@@ -137,3 +137,4 @@ if (burger<3000){
 BUENA PRACTICA
 const NOMBRE = "Coder"
 let numero = 1500 */
+
